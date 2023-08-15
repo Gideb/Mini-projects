@@ -1,2 +1,1 @@
-# Mini-projects
-will contain various projects as and when i complete them.
+a light and dark toggling mode using html,css an javascript
